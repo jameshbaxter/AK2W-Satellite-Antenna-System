@@ -14,7 +14,7 @@ This year I completed designing and building such an antenna system - this repos
 
 ## Project Files
 
-**Designing Cross-Yagi Antennas for Working Amateur Satellites.pdf** is a record of the research, design, and build process including parts lists, images, and descriptions for each part of the process. Notes on working through amateur satellites are provided at the end of the document.  
+<a href="./Designing Cross-Yagi Antennas for Working Amateur Satellites.pdf">Designing Cross-Yagi Antennas for Working Amateur Satellites.pdf</a> is a record of the research, design, and build process including parts lists, images, and descriptions for each part of the process. Notes on working through amateur satellites are provided at the end of the document.  
 
 **AK2W Crossed Yagi Antenna Design Calculations 2022.xlsx** is a spreadsheet that captures the output of the EZNEC models and Yagi Calculator for 146 MHz and 435 MHz cross-Yagi antennas, including a page containing the summarized build specs (element lengths and boom placements) for each antenna.  
 
@@ -25,3 +25,4 @@ To download the entire set of project files, click the green 'Code' button (top 
 To download a single file, click on the file and find/click the 'Download' button on the right.  
 
 
+Designing Cross-Yagi Antennas for Working Amateur Satellites.pdf
