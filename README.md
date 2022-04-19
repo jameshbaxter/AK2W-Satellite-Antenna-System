@@ -19,7 +19,8 @@ This year I completed designing and building such an antenna system - this repos
 <a href="./AK2W Crossed Yagi Antenna Design Calculations 2022.xlsx">AK2W Crossed Yagi Antenna Design Calculations 2022.xlsx</a> is a spreadsheet that captures the output of the EZNEC models and Yagi Calculator for 146 MHz and 435 MHz cross-Yagi antennas, including a page containing the summarized build specs (element lengths and boom placements) for each antenna.  
 
 The <a href="./EZNEC/">EZNEC</a> folder contains the final (version 3) EZNEC model files for both antennas.  
+
 The <a href="./images/">images</a> folder contains all the images used in the PDF as well as a lot of others that may be useful for understanding how the antennas were built.  
 
-To download the entire set of project files, click the green 'Code' button (top right on this page) and click 'Download ZIP'.  
+To download the entire set of project files, click the green 'Code' button (top right this page) and click 'Download ZIP'  
 To download a single file, click on the file and find/click the 'Download' button on the right.  
