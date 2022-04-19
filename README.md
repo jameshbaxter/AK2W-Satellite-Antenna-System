@@ -21,8 +21,5 @@ This year I completed designing and building such an antenna system - this repos
 The <a href="./EZNEC/">EZNEC</a> folder contains the final (version 3) EZNEC model files for both antennas.  
 The <a href="./images/">images</a> folder contains all the images used in the PDF as well as a lot of others that may be useful for understanding how the antennas were built.  
 
-To download the entire set of project files, click the green 'Code' button (top right) and click 'Download ZIP'.  
+To download the entire set of project files, click the green 'Code' button (top right on this page) and click 'Download ZIP'.  
 To download a single file, click on the file and find/click the 'Download' button on the right.  
-
-
-Designing Cross-Yagi Antennas for Working Amateur Satellites.pdf
